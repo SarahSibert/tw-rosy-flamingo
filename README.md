@@ -1,4 +1,4 @@
-<img width="502" alt="rosyFlamingo" src="https://user-images.githubusercontent.com/38976391/116097395-042e7b80-a6a2-11eb-83ab-b7dc58d0e219.png">
+
 # Tailwind CSS Rosy Flamingo Palette
 
 This plugin adds the Rosy Flamingo colour palette (from https://www.canva.com/colors/color-palettes/rosy-flamingo/) to the Tailwind colour palette.
