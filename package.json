@@ -1,0 +1,23 @@
+{
+  "name": "tw-rosy-flamingo",
+  "version": "1.0.0",
+  "description": "A Tailwind plugin that adds the Rosy Flamingo colours to config.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarahSibert/tw-rosy-flamingo.git"
+  },
+  "keywords": [
+    "Tailwind",
+    "colours"
+  ],
+  "author": "SarahSibert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SarahSibert/tw-rosy-flamingo/issues"
+  },
+  "homepage": "https://github.com/SarahSibert/tw-rosy-flamingo#readme"
+}
